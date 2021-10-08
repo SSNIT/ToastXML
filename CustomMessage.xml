@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Toast>
+<ToastConfiguration>
+	<RebootDeadlineInDays>7</RebootDeadlineInDays>
+	<LogoImageLocation>https://raw.githubusercontent.com/SSNIT/ToastXML/main/logoSSN.png</LogoImageLocation>
+	<HeroImageLocation>https://raw.githubusercontent.com/SSNIT/ToastXML/main/banner.png</HeroImageLocation>
+	<AppID>milcobel.com</AppID>
+	<AppDisplayName>Stad Sint-Niklaas</AppDisplayName>
+</ToastConfiguration>  
+<ToastContent>
+    <ToastTitle>Gelieve je toestel te herstarten.</ToastTitle>
+    <Signature>ICT Sint-Niklaas</Signature>
+    <EventTitle>Herstart noodzakelijk.</EventTitle>
+    <EventText>Jouw computer heeft niet gereboot de laatste 7 dagen. Regelmatige reboots houden je toestel clean en snel.</EventText>
+    <ButtonOk>Herstart nu</ButtonOk>
+    <ButtonAction>ToastReboot:</ButtonAction>
+    <ButtonCancel>Uitstellen</ButtonCancel>
+</ToastContent>
+</Toast>
